@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan White</h1>
 <h3 align="center">A passionate game developer from The Bahamas, but living in Seattle</h3>
 
-- 🔭 I’m currently working on [Obstacle Assault](https://github.com/offtheclockk/Obstacle-Assault)
+- 🔭 I’m currently working on [Crypt Raider](https://github.com/offtheclockk/CryptRaider)
 
 - 🌱 I’m currently learning **C++ and Unreal Engine**
 
