@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [www.offtheclockk.com](https://www.offtheclockk.com)
+- 👨‍💻 All of my projects are available at [www.offtheclockk.com](https://offtheclockk.com)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, React Native**
 
